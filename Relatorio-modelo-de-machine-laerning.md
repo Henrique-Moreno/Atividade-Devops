@@ -12,6 +12,8 @@
 simples e legibilidade. É amplamente utilizada para desenvolvimento web, 
 automação, análise de dados e muito mais.
 
+## Google Colab
+
 > O Google Colab é uma ferramenta online gratuita que permite escrever e executar código Python diretamente no navegador. Com essa plataforma, não é necessário instalar nenhum software no computador, o que torna o processo mais simples e acessível. Além disso, o Colab oferece recursos como acesso a GPUs e a possibilidade de colaboração em tempo real.
 
 ## Desenvolvimento
